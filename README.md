@@ -28,8 +28,8 @@ I build software that communicates with the kernel directly. No middleman. No my
 - **INVARIANTS:** Encode failure as an invariant to ensure deterministic state-machine behavior.
 - **SIMPLICITY:** Complexity is a debt. The compiler cannot pay it for you.
 ## STACK
-- **PRIMARY:** C, x86-64 Assembly, Emacs Lisp
-- **SECONDARY:** Python, Raylib, React/JS, Node/Js
+- **PRIMARY:** C, x86-64 Assembly, Raylib, Emacs Lisp
+- **SECONDARY:** (I can work without complaining much) Python, Java/C#, React/Js, Node/Js
 - **OS:** Linux (Gentoo)
 ## CONTACT
 **EMAIL:** agustinrios1006@gmail.com
