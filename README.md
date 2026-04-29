@@ -1,6 +1,10 @@
 # JORIOS1006
 ## SYSTEMS PROGRAMMER | FREE SOFTWARE | MINIMALIST
-"I do not write open-source. I write free software. If you do not know the difference, I cannot help you."
+ “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”
+                
+― Antoine de Saint-Exupéry, Airman's Odyssey 
+## CURRENTLY WORKING ON:
+**TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
 ## PROJECTS
 ### TINY.H
 No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
