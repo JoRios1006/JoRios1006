@@ -5,6 +5,7 @@
 ― Antoine de Saint-Exupéry, Airman's Odyssey 
 ## CURRENTLY WORKING ON:
 **TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
+**ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
 ## PROJECTS
 #### TINY.H
 No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
