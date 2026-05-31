@@ -7,6 +7,11 @@
 **TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
 
 **ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
+
+## CURRENTLY NOT WORKING ON (but I want to):
+**RV32E assembler in OCAML**: Target the embedded instructions
+
+**RV32E QEMU OS**: Bare-bones OS running my lectures code on it, source code in RV32E assembly, with a shell!
 ## PROJECTS
 #### TINY.H
 No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
