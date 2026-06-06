@@ -12,6 +12,8 @@
 **RV32E assembler in OCAML**: Target the embedded instructions
 
 **RV32E QEMU OS**: Bare-bones OS running my lectures code on it, source code in RV32E assembly, with a shell!
+
+**HTTP SERVER IN SOLARIS SPARC!!**: Booting a VM and writting a basic http server in asm for SPARC, why? SPARC uses RISC and I think is funny.
 ## PROJECTS
 #### TINY.H
 No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
@@ -37,7 +39,7 @@ I build software that communicates with the kernel directly. No middleman. No my
 ## STACK
 - **PRIMARY:** C, x86-64 Assembly, Raylib, Emacs Lisp
 - **SECONDARY:** (I can work without complaining much) Python, Java/C#, React/Js, Node/Js
-- **OS:** Linux (Gentoo)
+- **OS:** Linux (Debian) 
 ## CONTACT
 **EMAIL:** agustinrios1006@gmail.com
 **STATUS:** Writing software. Avoiding undefined behavior.
