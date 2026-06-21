@@ -13,6 +13,8 @@
 
 **RV32E QEMU OS**: Bare-bones OS running my lectures code on it, source code in RV32E assembly, with a shell!
 
+**RPN MATH MATRIX VISUALIZER**: RPN calculator function plotter from scratch, raw pixel manipulation via SDL, zero-allocation stack evaluation loop.
+
 **HTTP SERVER IN SOLARIS SPARC!!**: Booting a VM and writting a basic http server in asm for SPARC, why? SPARC uses RISC and I think is funny.
 ## PROJECTS
 #### TINY.H
