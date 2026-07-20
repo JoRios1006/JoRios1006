@@ -8,6 +8,8 @@
 
 **ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
 
+**RISC-V SOFTCORE VHDL FPGA**: I'm trying way too hard to learn FPGA, VHDL, RISCV and Hardware Implementation on my own.
+
 ## CURRENTLY NOT WORKING ON (but I want to):
 **RV32E assembler in OCAML**: Target the embedded instructions
 
