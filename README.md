@@ -4,11 +4,7 @@
                 
 ― Antoine de Saint-Exupéry, Airman's Odyssey 
 ## CURRENTLY WORKING ON:
-**TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
-
-**ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
-
-**RISC-V SOFTCORE VHDL FPGA**: I'm trying way too hard to learn FPGA, VHDL, RISCV and Hardware Implementation on my own.
+**TINY.HTTP.POP3.FTP Server** : That
 
 ## CURRENTLY NOT WORKING ON (but I want to):
 **RV32E assembler in OCAML**: Target the embedded instructions
@@ -18,6 +14,12 @@
 **RPN MATH MATRIX VISUALIZER**: RPN calculator function plotter from scratch, raw pixel manipulation via SDL, zero-allocation stack evaluation loop.
 
 **HTTP SERVER IN SOLARIS SPARC!!**: Booting a VM and writting a basic http server in asm for SPARC, why? SPARC uses RISC and I think is funny.
+
+**TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
+
+**ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
+
+**RISC-V SOFTCORE VHDL FPGA**: I'm trying way too hard to learn FPGA, VHDL, RISCV and Hardware Implementation on my own.
 ## PROJECTS
 #### TINY.H
 No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
