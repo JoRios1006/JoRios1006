@@ -1,8 +1,10 @@
 # JORIOS1006
 ## SYSTEMS PROGRAMMER | FREE SOFTWARE | MINIMALIST
  “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”
-                
 ― Antoine de Saint-Exupéry, Airman's Odyssey 
+
+## STATS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoRios1006&layout=compact&theme=dark)
 ## CURRENTLY WORKING ON:
 **TINY.HTTP.POP3.FTP Server** : That
 
