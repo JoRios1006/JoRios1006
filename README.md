@@ -6,6 +6,8 @@
 ## STATS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoRios1006&layout=compact&theme=dark)
 ## CURRENTLY WORKING ON:
+**My own OS called Evilos**
+**C replacement of crun**
 **TINY.HTTP.POP3.FTP Server** : That
 
 ## CURRENTLY NOT WORKING ON (but I want to):
