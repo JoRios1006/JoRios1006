@@ -5,32 +5,8 @@
 
 ## STATS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoRios1006&layout=compact&theme=dark)
-## CURRENTLY WORKING ON:
-**My own OS called Evilos**
-**C replacement of crun**
-**TINY.HTTP.POP3.FTP Server** : That
-
-## CURRENTLY NOT WORKING ON (but I want to):
-**RV32E assembler in OCAML**: Target the embedded instructions
-
-**RV32E QEMU OS**: Bare-bones OS running my lectures code on it, source code in RV32E assembly, with a shell!
-
-**RPN MATH MATRIX VISUALIZER**: RPN calculator function plotter from scratch, raw pixel manipulation via SDL, zero-allocation stack evaluation loop.
-
-**HTTP SERVER IN SOLARIS SPARC!!**: Booting a VM and writting a basic http server in asm for SPARC, why? SPARC uses RISC and I think is funny.
-
-**TTCC**: Tiny Tiny C Compiler (Fork of TCC making it work with tiny.header)
-
-**ADA HTTP SERVER**: High-performance, non-blocking Web/File Server from scratch, using ADA/SPARK
-
-**RISC-V SOFTCORE VHDL FPGA**: I'm trying way too hard to learn FPGA, VHDL, RISCV and Hardware Implementation on my own.
-## PROJECTS
-#### TINY.H
-No-libc x86-64 Linux toolkit. Single-header. Direct syscall syscall interface. Inline assembly. German-style SSO strings. Hard error on non-Linux/non-x86-64 platforms. Eliminates standard library bloat.
-#### UMORIA-M
-Legacy Roguelike Refactor. Porting UMoria to C23. Data-oriented design. Bitmask spell logic. Branchless math. Performance engineering applied to legacy state machines.
-#### OSAKA-EMACS
-Personal Tooling. My environment. Every line of configuration is owned by the user. Integrated workflow for low-level development.
+## PROJECTS THAT MEET THE DEFINITION OF 'DONE'
+- **ELFETCH** CLI utility written in C++ to read elf header files
 ## INTERESTS & DOMAINS
 - **EMBEDDED & OSDEV:** Writing software that owns the hardware. Bare-metal execution. Minimalist kernels.
 - **PERFORMANCE ENGINEERING:** Cache-line awareness. Branchless logic. Data-oriented architecture.
