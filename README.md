@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoRios1006&layout=compact&theme=dark)
 ## PROJECTS THAT MEET THE DEFINITION OF 'DONE'
 - **ELFETCH** CLI utility written in C++ to read elf header files
+- **IObuffer** Small Library to batch and print stuff in one go
 ## INTERESTS & DOMAINS
 - **EMBEDDED & OSDEV:** Writing software that owns the hardware. Bare-metal execution. Minimalist kernels.
 - **PERFORMANCE ENGINEERING:** Cache-line awareness. Branchless logic. Data-oriented architecture.
